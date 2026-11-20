@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4644c81b816e48ae98b7b848c5502211, type: 3}
+  m_Name: GlacialStormBehavior
+  m_EditorClassIdentifier: 
+  m_damageMultiplier: 1
+  m_attackMode: 19
+  m_areaRadius: 2.1
+  m_damageTickInterval: 0.45
+  m_areaDamageMultiplier: 0.65
+  m_attackIntervalMultiplier: 4
+  m_stormFreezeChance: 0.25
+  m_stormFreezeDuration: 1.25
+  m_glacialTravelDistance: 12
+  m_glacialSpeedMultiplier: 0.6
+  m_glacialContactSpeedMultiplier: 0.4
+  m_glacialFreezeAttemptInterval: 0.45

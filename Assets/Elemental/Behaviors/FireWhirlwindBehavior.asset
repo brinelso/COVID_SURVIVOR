@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4644c81b816e48ae98b7b848c5502211, type: 3}
+  m_Name: FireWhirlwindBehavior
+  m_EditorClassIdentifier: 
+  m_damageMultiplier: 0.4
+  m_searchRangeMultiplier: 1
+  m_projectileSpeedMultiplier: 1.2
+  m_lengthMultiplier: 1
+  m_widthMultiplier: 1
+  m_additionalProjectileCount: 0
+  m_homesInOnTarget: 0
+  m_homingTurnSpeed: 360
+  m_appliesBurn: 0
+  m_burnDamagePerTick: 2
+  m_burnDuration: 2
+  m_burnTickInterval: 0.5
+  m_appliesSlow: 0
+  m_slowPercent: 0.3
+  m_slowDuration: 2
+  m_freezeChance: 0
+  m_freezeDuration: 1.5
+  m_attackMode: 1
+  m_activeDuration: 3
+  m_areaRadius: 0.75
+  m_damageTickInterval: 0.5

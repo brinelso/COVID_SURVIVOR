@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4644c81b816e48ae98b7b848c5502211, type: 3}
+  m_Name: FireOrbitBehavior
+  m_EditorClassIdentifier: 
+  m_damageMultiplier: 1.1
+  m_searchRangeMultiplier: 1
+  m_projectileSpeedMultiplier: 1.2
+  m_projectileLifetimeMultiplier: 2
+  m_canPierce: 0
+  m_homesInOnTarget: 0
+  m_homingTurnSpeed: 260
+  m_attackMode: 15
+  m_orbitRadius: 2.5
+  m_orbitSpeedDegrees: 180
+  m_orbitTickInterval: 0.5
+  m_orbitDamageMultiplier: 0.25
+  m_orbitSize: 1

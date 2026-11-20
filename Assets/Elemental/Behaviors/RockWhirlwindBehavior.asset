@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4644c81b816e48ae98b7b848c5502211, type: 3}
+  m_Name: RockWhirlwindBehavior
+  m_EditorClassIdentifier: 
+  m_damageMultiplier: 1
+  m_searchRangeMultiplier: 1
+  m_projectileSpeedMultiplier: 1
+  m_attackMode: 23
+  m_activeDuration: 4
+  m_attackIntervalMultiplier: 5.5
+  m_rockWhirlwindStoneCount: 8
+  m_rockWhirlwindOrbitRadius: 1.2
+  m_rockWhirlwindRotationSpeed: 540
+  m_rockWhirlwindDamageMultiplier: 0.35
+  m_rockWhirlwindDamageInterval: 0.5
+  m_rockWhirlwindGroupRadius: 3
+  m_vortexMovementSpeed: 4
+  m_vortexTargetSearchInterval: 0.25

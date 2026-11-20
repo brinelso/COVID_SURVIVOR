@@ -1,0 +1,29 @@
+
+# Unity - arquivos temporários e gerados
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emory[Cc]aptures/
+[Rr]ecordings/
+
+# Arquivos gerados pela IDE
+.vscode/
+.vs/
+.idea/
+.fleet/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.pidb
+*.pdb
+*.mdb
+
+# Arquivos temporários
+*.tmp
+*.log
+.DS_Store

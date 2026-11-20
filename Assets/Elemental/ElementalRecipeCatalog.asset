@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d101a9cd26bd47fba121000000000004, type: 3}
+  m_Name: ElementalRecipeCatalog
+  m_EditorClassIdentifier: 
+  m_definitions:
+  - {fileID: 11400000, guid: 320f93039949480b8b9663d88159cd4d, type: 2}
+  - {fileID: 11400000, guid: fdc4f5239d1c433583d1a1b0f275b1b7, type: 2}
+  - {fileID: 11400000, guid: 71601f363c0246308269d5096b80c22d, type: 2}
+  - {fileID: 11400000, guid: 6eee6ef668404340b31541a4d57a2ba0, type: 2}
+  - {fileID: 11400000, guid: 454b4c9ed92c4fb49f9d899386627a88, type: 2}
+  - {fileID: 11400000, guid: 1ee7668811d74b73a5b088b7ea902205, type: 2}
+  - {fileID: 11400000, guid: af0eea5129bf4ff0838bcc1de61fd32e, type: 2}
+  - {fileID: 11400000, guid: d7e831ded07c49b28f6faa6cc9376d8a, type: 2}
+  - {fileID: 11400000, guid: a9912e4497f34cf7ade0e4be9b237ea6, type: 2}
+  - {fileID: 11400000, guid: 7b18b29bc3674b07968ea44de34c9731, type: 2}
+  - {fileID: 11400000, guid: 7f09f61559a34906afc04cee7fad6781, type: 2}
+  - {fileID: 11400000, guid: a80986916e5c462daeaa26e160a2c717, type: 2}
+  - {fileID: 11400000, guid: 065cfb9782354408b949c493693acb30, type: 2}
+  - {fileID: 11400000, guid: 8dc2273e6e7142bfb8651668fe0ca227, type: 2}
+  - {fileID: 11400000, guid: dbea4b1b7be6444f8f8b26aa54df88d8, type: 2}
+  - {fileID: 11400000, guid: 9c3e95857f6541d1936e3c8c5da5a421, type: 2}
+  - {fileID: 11400000, guid: cb814b95bb3743308f6e3df61c401cce, type: 2}
+  - {fileID: 11400000, guid: 87c780cb0c3c466d89490b04fc309e09, type: 2}
+  - {fileID: 11400000, guid: 1c5c23a7f9e84c149516aa2dd368503e, type: 2}
+  - {fileID: 11400000, guid: 4c9c6bc541db48a59a7389179220481d, type: 2}
+  - {fileID: 11400000, guid: 3d23fef83a764af4819d3e1944f86943, type: 2}
+  - {fileID: 11400000, guid: 9a5f03f5b6094ee2ac2408ffda853357, type: 2}
+  - {fileID: 11400000, guid: 762864f5e3cd42419a8aff531ba66828, type: 2}
+  - {fileID: 11400000, guid: 976cd3339df6498386e0b6d398dc4935, type: 2}
+  - {fileID: 11400000, guid: 6174791ff42e4f9c8778b09e75e2b1d6, type: 2}
+  - {fileID: 11400000, guid: ebe99d8ec6c24a53995d4c2a47963741, type: 2}
+  - {fileID: 11400000, guid: 940ba9b9dc494ce3b2847d536d60681f, type: 2}
+  - {fileID: 11400000, guid: 2ccbc971a7b14df49abc1dbea992b346, type: 2}
+  - {fileID: 11400000, guid: e84317425a45420c828f5af88cff6971, type: 2}
+  - {fileID: 11400000, guid: 5980c5b441184e9b98fa065f0737b7da, type: 2}
+  - {fileID: 11400000, guid: 74909308ad8046089cc37fb09af65cad, type: 2}
+  - {fileID: 11400000, guid: 734ab997a4da47369a8eac7b3a76decc, type: 2}
+  - {fileID: 11400000, guid: a48c8fb6e3df4fa49999edbb45340167, type: 2}
+  - {fileID: 11400000, guid: 9cfb2fcfcf734cb4aa1157ae918ea45b, type: 2}
+  m_waterColor: {r: 0.14509800, g: 0.56078400, b: 0.90980400, a: 1}
+  m_fireColor: {r: 0.94117600, g: 0.35294100, b: 0.19607800, a: 1}
+  m_earthColor: {r: 0.59607800, g: 0.38039200, b: 0.23137300, a: 1}
+  m_airColor: {r: 0.74117600, g: 0.91372500, b: 0.95686300, a: 1}

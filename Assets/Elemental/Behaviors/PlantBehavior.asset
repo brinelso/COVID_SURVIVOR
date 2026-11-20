@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4644c81b816e48ae98b7b848c5502211, type: 3}
+  m_Name: PlantBehavior
+  m_EditorClassIdentifier: 
+  m_damageMultiplier: 1
+  m_attackMode: 20
+  m_attackIntervalMultiplier: 4
+  m_plantProjectileColor: {r: 0.25, g: 0.78, b: 0.32, a: 1}
+  m_plantImpactDamageMultiplier: 0.8
+  m_plantSpreadRadius: 2
+  m_plantMaximumEnemies: 6
+  m_plantRootDuration: 1
+  m_plantPoisonDuration: 3
+  m_plantPoisonDamageMultiplier: 0.25
+  m_plantPoisonTickInterval: 0.5

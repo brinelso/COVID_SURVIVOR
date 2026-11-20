@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4644c81b816e48ae98b7b848c5502211, type: 3}
+  m_Name: GeyserBehavior
+  m_EditorClassIdentifier: 
+  m_damageMultiplier: 1.3
+  m_searchRangeMultiplier: 1
+  m_projectileSpeedMultiplier: 1
+  m_canPierce: 0
+  m_lengthMultiplier: 1
+  m_widthMultiplier: 1
+  m_additionalProjectileCount: 0
+  m_homesInOnTarget: 0
+  m_homingTurnSpeed: 360
+  m_appliesBurn: 0
+  m_burnDamagePerTick: 2
+  m_burnDuration: 2
+  m_burnTickInterval: 0.5
+  m_appliesSlow: 0
+  m_slowPercent: 0.3
+  m_slowDuration: 2
+  m_freezeChance: 0
+  m_freezeDuration: 1.5
+  m_attackMode: 7
+  m_activeDuration: 1
+  m_areaRadius: 0.6
+  m_damageTickInterval: 0.25
+  m_progressiveSlowMaximumPercent: 0
+  m_progressiveSlowDuration: 2
+  m_impactGrowthStartScale: 0.25
+  m_impactGrowthDuration: 1
+  m_coneLength: 3
+  m_coneAngle: 70
+  m_coneDamageMultiplier: 1
+  m_coneVisualDuration: 0.3
+  m_mudProjectileLength: 0.8
+  m_mudProjectileWidth: 1.5
+  m_mudSlowPercent: 0.4
+  m_areaDamageMultiplier: 0.8
+  m_impactDamageMultiplier: 1
+  m_fragmentCount: 0
+  m_fragmentDamageMultiplier: 0.5
+  m_fragmentSpeed: 5
+  m_fragmentLifetime: 1
+  m_fragmentSize: 0.2
+  m_fragmentSpreadAngle: 360
+  m_sequenceCount: 5
+  m_sequenceInterval: 0.25
+  m_sequenceBlastRadius: 0.75
+  m_geyserWidth: 0.8
+  m_geyserHeight: 3.5
+  m_geyserRiseDuration: 0.15
+  m_forwardConeLength: 2
+  m_forwardConeAngle: 60
+  m_meteorSpawnHeight: 3
