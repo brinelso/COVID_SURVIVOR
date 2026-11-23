@@ -1,0 +1,90 @@
+{
+  "original_audio": true,
+  "rate": 22050,
+  "tracks": [
+    {
+      "filename": "Assets/Resources/Audio/Music/menu_loop.wav",
+      "duration_s": 17.143,
+      "peak": 0.3376,
+      "rms": 0.074,
+      "sha256": "0cdab09edbea8bcf1453c5429f6167eeaf03e9c6e05cd43d5aa25cf52f4b2534"
+    },
+    {
+      "filename": "Assets/Resources/Audio/Music/game_loop.wav",
+      "duration_s": 13.333,
+      "peak": 0.3631,
+      "rms": 0.071,
+      "sha256": "c9327eac41c3d1c29fba937a29f4ef6ac936494385637d4d48255de817eb37fc"
+    },
+    {
+      "filename": "Assets/Resources/Audio/Music/defeat_loop.wav",
+      "duration_s": 12.0,
+      "peak": 0.2612,
+      "rms": 0.0834,
+      "sha256": "c1040d32c348842883b5502b1ce50fc2a93d7dbccf90665c8ec1b073ccc5221a"
+    },
+    {
+      "filename": "Assets/Resources/Audio/SFX/ui_click.wav",
+      "duration_s": 0.14,
+      "peak": 0.1805,
+      "rms": 0.0672,
+      "sha256": "2a6062f50db7208b9fa1fd5856e1d223b78118bbbbbff467fdb2ec00d72a57c0"
+    },
+    {
+      "filename": "Assets/Resources/Audio/SFX/shoot.wav",
+      "duration_s": 0.16,
+      "peak": 0.1496,
+      "rms": 0.0529,
+      "sha256": "b636fc17fb99a0a7ca193397a3568a765b2e39f72221f00e6ba94390d7d5efa7"
+    },
+    {
+      "filename": "Assets/Resources/Audio/SFX/enemy_hit.wav",
+      "duration_s": 0.11,
+      "peak": 0.1935,
+      "rms": 0.0357,
+      "sha256": "c808a71b1c1ca42fa3f14bc4d9d6363e35c0fa84c8fbe3af847a684069fd9c96"
+    },
+    {
+      "filename": "Assets/Resources/Audio/SFX/enemy_death.wav",
+      "duration_s": 0.32,
+      "peak": 0.2697,
+      "rms": 0.0449,
+      "sha256": "d8a12bf277fbfbb9ba69e5e28a1d41887ad6533b02045179db7eb1cbde0444b6"
+    },
+    {
+      "filename": "Assets/Resources/Audio/SFX/player_hit.wav",
+      "duration_s": 0.3,
+      "peak": 0.4712,
+      "rms": 0.0908,
+      "sha256": "7b9b8e707cf3130be5a3a1903af061af56e2103d1dc7e99456788252a6bdd115"
+    },
+    {
+      "filename": "Assets/Resources/Audio/SFX/pickup.wav",
+      "duration_s": 0.22,
+      "peak": 0.1157,
+      "rms": 0.0393,
+      "sha256": "d48d3244e084885143942a960dfd86961297b1e78fccc66d36537f8d0ca760eb"
+    },
+    {
+      "filename": "Assets/Resources/Audio/SFX/level_up.wav",
+      "duration_s": 0.76,
+      "peak": 0.2913,
+      "rms": 0.1072,
+      "sha256": "c3797e6becbce4fb9ee64000da3866173d4f031ce2ceebb206a2ab6a17b4fbe8"
+    },
+    {
+      "filename": "Assets/Resources/Audio/SFX/defeat.wav",
+      "duration_s": 1.1,
+      "peak": 0.3756,
+      "rms": 0.0881,
+      "sha256": "7a7b52ab063f7e35ab9551681d26a475db66a005ab15815a488c7390c424908b"
+    },
+    {
+      "filename": "Assets/Resources/Audio/SFX/element_cast.wav",
+      "duration_s": 0.32,
+      "peak": 0.15,
+      "rms": 0.0342,
+      "sha256": "fe7a6a9a8b24560475f814e4861df80c10c33e74baf65630f70ee76115a437f6"
+    }
+  ]
+}
